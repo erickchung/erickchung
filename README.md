@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Eric
+- 👀 I’m interested in learning stuff
+- 🌱 I’m currently learning github and Docker
+- 📫 How to reach me: @erickchung on most socials
+
 <!--
 **erickchung/erickchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
